@@ -1,4 +1,4 @@
 # hello-world
 Repository for fun
 
-I love ☕, 🍕 and 📆
+I love ☕, 🍕, 📆 and :pizza:
